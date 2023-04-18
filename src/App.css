@@ -1,0 +1,88 @@
+.App {
+ background-image: url(/images/bg1.png);
+  } 
+
+   .button_search {
+   
+    color: white; 
+    margin: 20px;
+  } 
+
+  
+  .imagen_busqueda {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    margin-top: -11%;
+    position: absolute;
+    z-index: -1;
+    
+  } 
+
+  .imagen_busqueda2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    margin-top: -10%;
+    position: absolute;
+    z-index: -1;
+    
+  } 
+
+ 
+  .text-container {
+    display: flex;
+    justify-content: center;
+    align-items: 0;
+    height: 65vh;
+    color: rgb(255, 255, 255);
+    background-image: url(/images/bg3.png); 
+    background-position: center; 
+    background-attachment: fixed;
+  }
+
+  .information {
+  border: 1px solid #5adb04; 
+  border-radius: 3px;
+  padding: 1px; 
+  display: inline-block; 
+}
+
+.information2 {
+    /* border: 1px solid #000000;  */
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .information3 {
+    border: 1px solid #5adb04; 
+    border-radius: 3px;
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+  } 
+
+  .color-text {
+    color: rgb(252, 252, 252);
+  }
+      
+    
+  .pages {
+    background-color: rgba(128, 128, 128, 0);
+    color: white;
+  }
+
+ 
